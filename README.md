@@ -1,14 +1,11 @@
-# Matheus Quevedo
+# Olá, me chamo Matheus Quevedo👋🏼
 
-Frontend Developer & Designer
+ Desenvolvedor Front-End & Designer
 
-- 💻 I'm 23 years old and I live in São Paulo/SP
+<p>💻 Web Designer em transição de carreira para a área de desenvolvimento Front-End.<br>
+Atualmente estou cursando um MBA em Engenharia de Software pela Universidade de São Paulo (USP), e também realizando diversos de cursos na área de desenvolvimento Web (HTML, CSS, JavaScript e React)</p>
 
-<div>
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthquevedo&layout=compact&icons=true&theme=tokyonight"/>
-  </div>
-
+## Skills
   <div><br>
     <img align="center" alt="Mq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Mq-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,3 +14,9 @@ Frontend Developer & Designer
     <img align="center" alt="Mq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 </div>
+
+##
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthquevedo&layout=compact&icons=true&theme=tokyonight"/>
+  </div>
+
