@@ -3,7 +3,7 @@
  Desenvolvedor Front-End & Designer
 
 <p>💻 Web Designer em transição de carreira para a área de desenvolvimento Front-End.<br>
-Atualmente estou cursando um MBA em Engenharia de Software pela Universidade de São Paulo (USP), e também realizando diversos de cursos na área de desenvolvimento Web (HTML, CSS, JavaScript e React)</p>
+Atualmente estou cursando um MBA em Engenharia de Software pela Universidade de São Paulo (USP), junto a diversos cursos focados em desenvolvimento Web (HTML, CSS, JavaScript, Typescript e React).</p>
 
 ## Skills
   <div><br>
