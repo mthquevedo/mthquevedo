@@ -2,7 +2,7 @@
 
 💻 Sou um **desenvolvedor front-end** apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Com **mais de 5 anos de experiência**, comecei minha jornada no web design, e nos últimos anos, me aprofundei no desenvolvimento com **React, JavaScript e TypeScript**.
 
-Gosto de transformar ideias em soluções funcionais e bem estruturadas, sempre buscando equilíbrio entre performance, usabilidade e design. Atualmente, estou finalizando minha especialização em **Engenharia de Software** e me capacitando na linguagem **Java**, expandindo meus conhecimentos em **arquitetura de software e desenvolvimento escalável**.
+Gosto de transformar ideias em soluções funcionais e bem estruturadas, sempre buscando equilíbrio entre performance, usabilidade e design. Atualmente, estou finalizando minha especialização em **Engenharia de Software** e me capacitando na linguagem **Java** voltada para backend, expandindo meus conhecimentos em **arquitetura de software e desenvolvimento escalável**.
 
 🚀 Sempre aprendendo e explorando novas tecnologias para criar soluções cada vez melhores!
 
