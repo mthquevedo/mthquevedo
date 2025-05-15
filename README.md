@@ -1,26 +1,19 @@
 # Olá, me chamo **Matheus Quevedo** 👋🏻
 
-💻 Sou um **desenvolvedor front-end** apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Com **mais de 5 anos de experiência**, comecei minha jornada no web design, e nos últimos anos, me aprofundei no desenvolvimento com **React, JavaScript e TypeScript**.
+💻 Sou um **desenvolvedor front-end** apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Com **mais de 5 anos de experiência**, comecei minha jornada no web design, e nos últimos anos, me aprofundei no desenvolvimento com o ecossistema **React**, utilizando principalmente **TypeScript e JavaScript**.
 
 Gosto de transformar ideias em soluções funcionais e bem estruturadas, sempre buscando equilíbrio entre performance, usabilidade e design. Atualmente, estou finalizando minha especialização em **Engenharia de Software** e me capacitando na linguagem **Java** voltada para backend, expandindo meus conhecimentos em **arquitetura de software e desenvolvimento escalável**.
 
 🚀 Sempre aprendendo e explorando novas tecnologias para criar soluções cada vez melhores!
 
-## Tecnologias:
+## Habilidades:
+Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="auto" height="35"/>&nbsp;      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="auto" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="auto" height="35"/>
-</p>
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,redux,tailwindcss,git,vite,visualstudiocode,intellijidea,chatgpt,figma)
+
+## Estudando:
+
+![Skills](https://skills.syvixor.com/api/icons?i=java,jest,springboot)
 
 ##
   <div>
