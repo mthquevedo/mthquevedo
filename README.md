@@ -13,7 +13,7 @@ Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
 ## Estudando:
 
-![Skills](https://skills.syvixor.com/api/icons?i=java,jest,springboot)
+![Skills](https://skills.syvixor.com/api/icons?i=java,springboot,jest)
 
 ##
   <div>
