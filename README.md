@@ -9,7 +9,7 @@ Gosto de transformar ideias em soluções funcionais e bem estruturadas, sempre 
 ## Habilidades:
 Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,redux,tailwindcss,git,vite,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,redux,tailwindcss,git,vite,visualstudiocode,intellijidea,chatgpt,figma,singlespa&perline=14)
 
 ## Estudando:
 
