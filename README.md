@@ -1,15 +1,15 @@
 # Olá, me chamo **Matheus Quevedo** 👋🏻
 
-💻 Sou um **desenvolvedor front-end** apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Com **mais de 5 anos de experiência**, comecei minha jornada no web design, e nos últimos anos, me aprofundei no desenvolvimento com o ecossistema **React**, utilizando principalmente **TypeScript e JavaScript**.
+💻 Sou um **desenvolvedor front-end** apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Com **cerca de 3 anos de experiência** na criação de interfaces web responsivas, acessíveis e de alta performance. Atuo com foco em usabilidade e qualidade de código, utilizando tecnologias como **React.js, Next.js, TypeScript, JavaScript, HTML5 e CSS3**.
 
-Gosto de transformar ideias em soluções funcionais e bem estruturadas, sempre buscando equilíbrio entre performance, usabilidade e design. Atualmente, estou finalizando minha especialização em **Engenharia de Software** e me capacitando na linguagem **Java** voltada para backend, expandindo meus conhecimentos em **arquitetura de software e desenvolvimento escalável**.
+Atualmente, estou concluindo uma especialização em Engenharia de Software, que tem fortalecido minha visão sobre arquitetura de aplicações, escalabilidade e organização de código. Minha formação híbrida em inovação, design e desenvolvimento me permite transformar ideias criativas em produtos digitais funcionais, escaláveis e visualmente atrativos.
 
 🚀 Sempre aprendendo e explorando novas tecnologias para criar soluções cada vez melhores!
 
 ## Habilidades:
 Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,redux,tailwindcss,git,singlespa,vite,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,nextjs,reactjs,redux,tailwindcss,git,singlespa,vite,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
 
 ## Estudando:
 
