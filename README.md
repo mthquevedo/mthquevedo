@@ -9,7 +9,7 @@ Atualmente, estou concluindo uma especialização em Engenharia de Software, que
 ## Habilidades:
 Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,nodejs,express,nextjs,reactjs,redux,tailwindcss,git,singlespa,vite,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,nodejs,express,nextjs,reactjs,redux,tailwindcss,git,singlespa,vite,mysql,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
 
 ## Estudando:
 
