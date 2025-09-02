@@ -1,6 +1,6 @@
 # Olá, me chamo **Matheus Quevedo** 👋🏻
 
-💻 Sou um **desenvolvedor front-end** pós graduado em Engenharia de Software apaixonado por criar interfaces intuitivas e envolventes. Com experiência em criação de interfaces web responsivas, acessíveis e de alta performance. Atuo com foco em usabilidade e qualidade de código, utilizando tecnologias como **React.js, Next.js, TypeScript, JavaScript, HTML5 e CSS3**.
+💻 Sou um **desenvolvedor front-end** pós graduado em Engenharia de Software apaixonado por criar interfaces intuitivas e envolventes. Com experiência em criação de interfaces web responsivas, acessíveis e de alta performance. Atuo com foco em usabilidade e qualidade de código, utilizando tecnologias como **Node.js, React.js, Next.js, TypeScript, JavaScript, HTML5 e CSS3**.
 
 Atualmente, estou cursando um bacharel também em Engenharia de Software, o conjunto dessas formações tem fortalecido minha visão sobre arquitetura de aplicações, escalabilidade e manutenibilidade de produtos.
 
