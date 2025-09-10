@@ -1,15 +1,20 @@
 # Olá, me chamo **Matheus Quevedo** 👋🏻
 
-💻 Sou um **desenvolvedor front-end** pós graduado em Engenharia de Software apaixonado por criar interfaces intuitivas e envolventes. Com experiência em criação de interfaces web responsivas, acessíveis e de alta performance. Atuo com foco em usabilidade e qualidade de código, utilizando tecnologias como **Node.js, React.js, Next.js, TypeScript, JavaScript, HTML5 e CSS3**.
+💻 Sou **Desenvolvedor Backend** e atualmente curso o **Bacharelado em Engenharia de Software**, com pós-graduação concluída na mesma área pela **Universidade de São Paulo (USP)**.
 
-Atualmente, estou cursando um bacharel também em Engenharia de Software, o conjunto dessas formações tem fortalecido minha visão sobre arquitetura de aplicações, escalabilidade e manutenibilidade de produtos.
+## Experiências:
 
-🚀 Sempre aprendendo e explorando novas tecnologias para criar soluções cada vez melhores!
+- Desenvolvimento e manutenção de **APIs REST** com **Node.js** e **Express**  
+- Programação em **TypeScript** e **JavaScript**  
+- Integração e consumo de bancos de dados **SQL (PostgreSQL)** e **NoSQL (MongoDB)**  
+- **Testes unitários** com **Jest**  
+- Conhecimentos em **Java**  
+- Experiência adicional em **Front-End** com ecossistema **React.js**
 
 ## Habilidades:
 Aqui estão algumas tecnologias e ferramentas que utilizo em meu trabalho:
 
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,nodejs,express,nextjs,reactjs,redux,tailwindcss,git,singlespa,vite,mysql,visualstudiocode,intellijidea,chatgpt,figma&perline=14)
+![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,nodejs,express,postgresql,mongodb,mysql,reactjs,tailwindcss,git,vite,visualstudiocode,intellijidea,figma&perline=14)
 
 ## Estudando:
 
